@@ -11,3 +11,4 @@
 * [배달의 민족 마이크로서비스 여행기](https://youtu.be/BnS6343GTkY) : 우아콘2020 김영한님의 배민 MSA 도입 관련 발표
 * [A Netflix GUide to Microservices](https://youtu.be/CZ3wIuvmHeM) : Mastering Chaos 넷플릭스 MSA 컨셉 발표
 * [가상 데이터센터 만들기](https://youtu.be/R1UWYQYTPKo) : AWS Korea VPC 기본적인 인프라 아키텍처 및 연결 옵션 발표 자료
+* [The Architecture of the Nehalem Processor and Nehalem-EP SMP Platforms](https://web.archive.org/web/20140811023120/http://sc.tamu.edu/systems/eos/nehalem.pdf) : nehalem 프로세서 아키텍처 디자인에 관한 논문 (슈퍼스케일러, 비순차실행, 분기예측, 캐시 일관성, 메모리 계층구조 등)
