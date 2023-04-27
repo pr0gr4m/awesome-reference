@@ -7,3 +7,4 @@
 * [Instruction Tables](https://www.agner.org/optimize/instruction_tables.pdf) : 아키텍처 별 명령어 레이턴시/파이프 테이블
 * [Latency Numbers](https://i.imgur.com/k0t1e.png) : 대표 작업 레이턴시
 * [Cloud Computing without Containers](https://blog.cloudflare.com/cloud-computing-without-containers/) : 클라우드플레어의 Lightweight VM (Worker) 단위의 클라우드 컴퓨팅 포스트
+* [최신 브라우저의](https://d2.naver.com/helloworld/2922312) [내부 살펴보기](https://d2.naver.com/helloworld/9274593) : 네이버에서 작성한 브라우저 프로세스 아키텍처 및 내비게이션에 관한 포스트 (1/2편 분할)
