@@ -21,6 +21,8 @@
 * [Facebook's Distributed Data Store for the Social Graph](https://cs.uwaterloo.ca/~brecht/courses/854-Emerging-2014/readings/data-store/tao-facebook-distributed-datastore-atc-2013.pdf) : 페이스북 소셜 그래프를 위한 분산 데이터 저장
 * [Amazon Architecture](http://highscalability.com/amazon-architecture) : 아마존 아키텍처
 * [A 360 Degree View of the Entire Netflix Stack](http://highscalability.com/blog/2015/11/9/a-360-degree-view-of-the-entire-netflix-stack.html) : 넷플릭스 테크 스택 살펴보기
+* [Designing Netflix](http://highscalability.com/blog/2021/12/13/designing-netflix.html) : 넷플릭스 디자인
+* [Netflix : What Happends When You Press Play?](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html) : 넷플릭스 재생 버튼을 누르면 어떤 일이 발생하는지
 * [Netflix](https://netflixtechblog.com/netflix-recommendations-beyond-the-5-stars-part-1-55838468f429) [Recommendations](https://netflixtechblog.com/netflix-recommendations-beyond-the-5-stars-part-2-d9b96aa399f5) : 넷플릭스 추천 시스템
 * [Google Architecture](http://highscalability.com/google-architecture) : 구글 아키텍처
 * [The Google File System](http://static.googleusercontent.com/media/research.google.com/zh-CN/us/archive/gfs-sosp2003.pdf) : 구글 파일시스템에 대한 논문
@@ -29,15 +31,18 @@
 * [YouTube Scalability](https://youtu.be/w5WVu624fY8) : 시애틀 컨퍼런스에서 유튜브 규모 확장성에 대한 발표
 * [A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf) : 빅테이블에 대한 논문
 * [Instagram Architecture](http://highscalability.com/blog/2011/12/6/instagram-architecture-14-million-users-terabytes-of-photos.html) : 인스타그램 아키텍처
+* [Designing Instagram](http://highscalability.com/blog/2022/1/11/designing-instagram.html) : 인스타그램 디자인
 * [The Architecture Twitter](http://highscalability.com/blog/2013/7/8/the-architecture-twitter-uses-to-deal-with-150m-active-users.html) : 트위터 아키텍처
 * [Scaling Twitter](http://highscalability.com/scaling-twitter-making-twitter-10000-percent-faster) : 트위터 규모 확장성
 * [Timelines at Scale](https://www.infoq.com/presentations/Twitter-Timeline-Scalability/) : 트위터 타임라인 확장성에 대한 컨퍼런스 발표
+* [Designing Uber](http://highscalability.com/blog/2022/1/25/designing-uber.html) : 우버 디자인
 * [How Uber Scales Their Real-Time Market Platform](http://highscalability.com/blog/2015/9/14/how-uber-scales-their-real-time-market-platform.html) : 우버 확장성
 * [Pinterest Architecture](http://highscalability.com/blog/2012/5/21/pinterest-architecture-update-18-million-visitors-10x-growth.html) : 핀터레스트 아키텍처
 * [Scaling Pinterest](http://highscalability.com/blog/2013/4/15/scaling-pinterest-from-0-to-10s-of-billions-of-page-views-a.html) : 핀터레스트 스케일링
 * [A Brief History of Scaling LinkedIn](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin) : 링크드인 스케일링 히스토리
 * [Flickr Architecture](http://highscalability.com/flickr-architecture) : 플리커 아키텍처
-* [WhatsApp Architecture](http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html) : 왓츠앱 아키텍처
+* [WhatsApp Architecture](http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html) : 왓츠앱 아키텍처\
+* [Consistent Hashing Algorithm](http://highscalability.com/blog/2023/2/22/consistent-hashing-algorithm.html) : 일관 해싱 알고리즘
 
 ---
 
