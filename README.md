@@ -43,6 +43,7 @@
 * [Flickr Architecture](http://highscalability.com/flickr-architecture) : 플리커 아키텍처
 * [WhatsApp Architecture](http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html) : 왓츠앱 아키텍처\
 * [Consistent Hashing Algorithm](http://highscalability.com/blog/2023/2/22/consistent-hashing-algorithm.html) : 일관 해싱 알고리즘
+* [Building Super Scalable Systems](http://highscalability.com/blog/2009/12/16/building-super-scalable-systems-blade-runner-meets-autonomic.html) : 스케일러블 시스템 설계
 
 ---
 
