@@ -49,5 +49,6 @@
 
 * [highscalability](http://highscalability.com/)
 * [microservices](https://microservices.io/index.html)
+* [infoq](https://www.infoq.com)
 * [nwtimes](https://nwktimes.blogspot.com/)
 * [compiler explorer](https://godbolt.org/) : 온라인 컴파일러
